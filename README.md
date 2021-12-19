@@ -1,0 +1,1 @@
+# etherium-wallet-go-generator
