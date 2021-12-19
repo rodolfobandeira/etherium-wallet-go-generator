@@ -13,7 +13,6 @@ import (
 func main() {
 	// Generaing the private key
 	privateKey, err := crypto.GenerateKey()
-
 	if err != nil {
 		log.Fatal(err)
 	}
